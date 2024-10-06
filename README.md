@@ -25,9 +25,9 @@ repository как "хранилище". В нём хранятся все изм
 
 Первоначальная настройка:
 
-'git config --global user.name _username_'
-'git config --global user.email _useremail_'
-'git config --global coreignorecase false'
+'git config --global user.name _username_'  
+'git config --global user.email _useremail_'  
+'git config --global coreignorecase false'  
 
 Просмотр настроек:
 
